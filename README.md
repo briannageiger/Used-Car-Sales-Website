@@ -7,7 +7,9 @@ This website displays used cars for sale at a dealership based on the filters se
 
 The home page shows all the used cars that are currently available.
 
-<video src="home-page.mp4" width="320" height="240" controls></video>
+<p align="center" width="100%">
+<video src="home-page.mp4" width="80%" controls></video>
+</p>
 ![Home page of website that shows all used cars on sale](home-page.mp4)
 ---
 The user can select different filter options such as min and max year, make, mileage, min and max price, and color of vehicle, and see the results in real-time. The user may choose to leave one or more filter-by options as the default. The user may select multiple different make options and color options.
