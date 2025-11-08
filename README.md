@@ -11,7 +11,10 @@ The home page shows all the used cars that are currently available.
 ---
 The user can select different filter options such as min and max year, make, mileage, min and max price, and color of vehicle, and see the results in real-time. The user may choose to leave one or more filter-by options as the default. The user may select multiple different make options and color options.
 
-![The filter by options](filter.jpg)
+<div align="center">
+  <img src="filter.jpg" alt="The filter-by options" />
+</div>
+
 ---
 This is an example of the results page when different filter-by options are selected.
 
